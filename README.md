@@ -1,19 +1,23 @@
 
-Axie Marketplace GraphQL Query
+# Axie Marketplace GraphQL Query
+
 This repository contains a Python script to query the Axie Infinity Marketplace using GraphQL. With this script, you can retrieve information about Axies available for sale based on specific criteria.
 
-Prerequisites
+## Prerequisites
+
 Before using this script, ensure you have:
 
-Python installed on your machine
-An Axie Infinity API key (Replace the placeholder api_key with your actual API key)
-Usage
-Clone this repository to your local machine:
-bash
-Copy code
+- Python installed on your machine
+- An Axie Infinity API key (Replace the placeholder `api_key` with your actual API key)
+
+## Usage
+
+1. Clone this repository to your local machine:
+
+```bash
 git clone https://github.com/your-username/axie-marketplace-query.git
-Navigate to the cloned directory:
-bash
+
+
 Copy code
 cd axie-marketplace-query
 Open the Python script axie_query.py and replace the placeholder API key with your actual API key.
